@@ -6,7 +6,7 @@ Me develope no twitter
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+ to everybody
     <name>
 
 # TECHNOLOGY COLOPHON

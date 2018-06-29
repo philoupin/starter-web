@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work together
 Made one more change after push to remote
 
+Some more text here for rebase
+
 ## Introduction
 
 This is an intro to xyz

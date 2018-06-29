@@ -18,3 +18,6 @@ And some text for deployment
 ## How to contribute
 
 This is added after file was staged
+
+## Copyright
+someone
